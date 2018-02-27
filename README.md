@@ -1,17 +1,17 @@
 # sell-vue
 
-> A Vue.js project
+> A Vue.js project 饿了么app的业务内容模仿H5实现，前后台分离，.json文件模拟后端接口数据，了解vue的组件api的使用。
 
 ## Build Setup
 
 ``` bash
-# install dependencies
+# install dependencies 下载依赖包
 npm install
 
-# serve with hot reload at localhost:8080
+# serve with hot reload at localhost:8080 启动开发模式
 npm run dev
 
-# build for production with minification
+# build for production with minification 启动build生成项目文件
 npm run build
 
 # build for production and view the bundle analyzer report
