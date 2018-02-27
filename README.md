@@ -1,6 +1,6 @@
 # sell-vue
 
-> A Vue.js project 饿了么app的业务内容模仿H5实现，前后台分离，.json文件模拟后端接口数据，了解vue的组件api的使用。
+> A Vue.js project 饿了么app的业务内容模仿H5实现，前后台分离，.json文件模拟后端接口数据，了解vue的组件api的使用。vue-cli vue2+vue-router+vue-resource+stylus
 
 ## Build Setup
 
